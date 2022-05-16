@@ -5,5 +5,5 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 Tableau file available in repository.
 
-Public Tableau link:
+Public Tableau visualization link:
 https://public.tableau.com/views/Customers_16527237121710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
