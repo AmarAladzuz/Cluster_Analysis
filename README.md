@@ -13,8 +13,11 @@ I have decided that the number of cluster should be 4, after conducting elbow me
 From the graph we can see our 4 clusters:
 
 -Brown cluster consisting of young customers which have high values of spending score and high values of annual income
+
 -Blue cluster consisting also of young customers with mid-high values of spending score, but low annual income
+
 -Green cluster consisting of older clients with mid values of spending score and low-mid annual income
+
 -Purple cluster consisting of persons with mid-high age, low spending score and high annual income
 
 
