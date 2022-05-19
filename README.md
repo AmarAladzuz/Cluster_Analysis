@@ -6,9 +6,6 @@ This project focuses on cluster analysis through application in market segmentat
 
 ![image](https://user-images.githubusercontent.com/99446425/169404186-8269f9b8-498b-4a0b-89af-be23c277bb47.png)
 
-
-Through this project I managed to develop and improve my skills of data visualization in Python, as well in Tableau. I've successfully conducted cluster analysis and came up with following results and conclusions:
-
 I have decided that the number of cluster should be 4, after conducting elbow method and silhouette analysis. With k-means I got next results
 
 ![image](https://user-images.githubusercontent.com/99446425/169404426-2fb1479b-76d2-47d2-80cc-90a90457faba.png)
@@ -19,6 +16,11 @@ From the graph we can see our 4 clusters:
 -Blue cluster consisting also of young customers with mid-high values of spending score, but low annual income
 -Green cluster consisting of older clients with mid values of spending score and low-mid annual income
 -Purple cluster consisting of persons with mid-high age, low spending score and high annual income
+
+
+Through this project I managed to develop and improve my overall analytical skills and data visualization in Python, as well in Tableau. I've successfully conducted cluster analysis(hierarchical and non-hierarchical) and came up with shown results and conclusions. 
+
+For full project code please check Cluster_analysis.ipynb file
 
 
 Data taken from:
