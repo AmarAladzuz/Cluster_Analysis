@@ -29,4 +29,4 @@ From the graph we can see our 4 clusters:
 
 Through this project I managed to develop and improve my overall analytical skills and data visualization in Python, as well in Tableau. I've successfully conducted cluster analysis(hierarchical and non-hierarchical) and came up with shown results and conclusions. 
 
-For full project code please check Cluster_analysis.ipynb file
+![image](https://user-images.githubusercontent.com/99446425/169653085-90fbe4eb-1045-4b9d-a2a2-297241366969.png)
