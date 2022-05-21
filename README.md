@@ -1,5 +1,15 @@
 # Cluster analysis in customer segmentation
 
+Data taken from:
+https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+Tableau file available in repository.
+
+Public Tableau visualization link:
+https://public.tableau.com/views/Customers_16527237121710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+### Overview
+
 When analyzing a large amount of data, the problem that the data on the objects of observation are not connected and structured, but are only "thrown" into the database, often arises. The most commonly used mathematical-statistical method for classifying objects into groups of similar characteristics is cluster analysis.
 
 This project focuses on cluster analysis through application in market segmentation. The database is taken from the Kaggle  site and contains data on supermarket customers, obtained on the basis of their membership cards. It consists of 200 observations, i.e. customers, with 5 variables: CustomerID, Gender, Age, Annual Income ($ 000) and Spending Score (1-100), i.e. the value assigned to the customer based on data on purchasing behavior.
@@ -17,17 +27,6 @@ From the graph we can see our 4 clusters:
 - Green cluster consisting of older clients with mid values of spending score and low-mid annual income.
 - Purple cluster consisting of persons with mid-high age, low spending score and high annual income.
 
-
-
 Through this project I managed to develop and improve my overall analytical skills and data visualization in Python, as well in Tableau. I've successfully conducted cluster analysis(hierarchical and non-hierarchical) and came up with shown results and conclusions. 
 
 For full project code please check Cluster_analysis.ipynb file
-
-
-Data taken from:
-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
-
-Tableau file available in repository.
-
-Public Tableau visualization link:
-https://public.tableau.com/views/Customers_16527237121710/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
